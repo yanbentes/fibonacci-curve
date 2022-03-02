@@ -2,22 +2,9 @@
 -- squares order → ↓ ← ↑
 function love.load()
    squares = {}
-   
-   -- red = {}
-   -- green = {}
-   -- blue = {}
-
-   -- colors change with time
-   -- math.randomseed(os.time())
 
    for i=1,18 do
       table.insert(squares, fib(i))
-
-      --[[ 
-	 table.insert(red, math.random())
-	 table.insert(green, math.random())
-	 table.insert(blue, math.random())
-      ]]--
    end
 
    -- love.window.maximize()	
