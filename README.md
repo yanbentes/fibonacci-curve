@@ -1,6 +1,6 @@
 # Fibonacci Spiral
 
-The Fibonacci sequence drawn as width of squares.
+The Fibonacci sequence drawn as a spiral and width of squares.
 
 ## Run
 
