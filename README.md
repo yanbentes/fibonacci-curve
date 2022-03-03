@@ -6,8 +6,8 @@ The Fibonacci sequence drawn as width of squares.
 
 First clone the repo
 
-`git clone https://github.com/yanbentes/click-the-lua.git`
+`git clone https://github.com/yanbentes/fibonacci-spiral.git`
 
 then run love
 
-`love click-the-lua/ `
+`love fibonacci-spiral/ `
