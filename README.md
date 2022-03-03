@@ -2,6 +2,8 @@
 
 The Fibonacci sequence drawn as a spiral and width of squares.
 
+<img src="spiral.png" alt="fibonacci spiral" width="400"/>
+
 ## Run
 
 First clone the repo
